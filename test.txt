@@ -3,4 +3,4 @@ first git add
 git diff V2 (just edit,no add)
 Git has a mutable index called stage.
 first push trial
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
